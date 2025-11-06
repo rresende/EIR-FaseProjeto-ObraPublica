@@ -599,7 +599,7 @@ Os blocos de informação podem incluir metadados adicionais caso sejam entendid
 
 ### 3.1.4. Nomenclatura dos blocos de informação - IFC: Objetos e informação alfanumérica
 
-Não se prescreve. No entanto, recomenda-se a utilização das nomenclaturas da proposta de especificação técnica de “Regras de modelação de objetos” disponível em: [https://bit.ly/secclass_manual_objetos_bim_](https://bit.ly/secclass_manual_objetos_bim_). A entidade fornecedora líder deverá explanar os princípios adotados para a nomenclatura no BEP.
+Não se prescreve. No entanto, recomenda-se a utilização das nomenclaturas da proposta de especificação técnica de “Regras de modelação de objetos” disponível em: [https://https://secclass.pt/relatorios/regras-de-modelacao-de-objetos-bim/](https://secclass.pt/relatorios/regras-de-modelacao-de-objetos-bim/). A entidade fornecedora líder deverá explanar os princípios adotados para a nomenclatura no BEP.
 
 ---
 
